@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052048569740",
+    "project_id": "salsabil2-4c509",
+    "storage_bucket": "salsabil2-4c509.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052048569740:android:9e2dd430787df545e052a9",
+        "android_client_info": {
+          "package_name": "com.example.salsabil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Q-25_ofxoFgNd4_41mSPO3sEClVV5pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
