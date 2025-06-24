@@ -1,16 +1,39 @@
-# salsabil
+# 💧 Salsabil - Flutter App
 
-A new Flutter project.
+**Salsabil** is a beautifully designed Flutter application built to deliver a smooth and modern mobile experience. This project demonstrates best practices in UI/UX, state management, and Firebase integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✨ Elegant, responsive UI
+- 🔥 Fast performance with Flutter
+- 📲 Android & iOS support
+- ☁️ Firebase integration (Auth/Firestore) *(if used)*
+- 🧭 Easy navigation with `go_router` or `Navigator`
+- 🧱 Modular, scalable architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+> _Add screenshots or demo GIF here for a stronger portfolio_
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** & **Dart**
+- **Firebase** (optional)
+- **Provider**, **Riverpod**, or **Bloc** for state management
+- **GitHub** for version control
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/shidos5/salsabil.git
+cd salsabil
+flutter pub get
+flutter run
